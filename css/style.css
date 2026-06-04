@@ -10,6 +10,9 @@ header,
 section {
   overflow-x: hidden;
 }
+.navbar {
+  background: #2b0014;
+}
 
 :root {
   --Sniglet-font: 'Sniglet', cursive;
